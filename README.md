@@ -10,6 +10,7 @@ ___
 
 ### Functionality:
 * **Add and Remove Tasks**
+
 Wanted to make something really simple, primarily for learning purpose
 ___
 
