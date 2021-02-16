@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+#  My First React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Simple Todo List
+
+*Link to the project*: [Todo](https://sabanovics.com/Todo/)
+*Inspiration:* [98.css](https://jdan.github.io/98.css/)
+ ___
+![Code For Food](https://raw.githubusercontent.com/SeadSabanovic/First-React-App/main/First-React-App.png)
+___
+
+### Functionality:
+* **Add and Remove Tasks**
+Wanted to make something really simple, primarily for learning purpose
+___
+
 
 ## Available Scripts
 
